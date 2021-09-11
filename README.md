@@ -8,18 +8,18 @@ Install the package using NPM or Yarn
 
 ### Via NPM
 ```shell
-npm i --save editorjs-youtube
+npm i --save editorjs-youtube-tool
 ```
 
 ### Via Yarn
 ```shell
-yarn add editorjs-youtube
+yarn add editorjs-youtube-tool
 ```
 
 Import module at your application
 
 ```javascript
-import EditorJSYoutubeTool from "editorjs-youtube";
+import EditorJSYoutubeTool from "editorjs-youtube-tool";
 ```
 
 ### Download to your project's source dir
@@ -29,14 +29,14 @@ import EditorJSYoutubeTool from "editorjs-youtube";
 
 ### Load from CDN
 
-You can load EditorJSYoutubeTool from [jsDelivr CDN](https://www.jsdelivr.com/package/npm/editorjs-youtube):
+You can load EditorJSYoutubeTool from [jsDelivr CDN](https://www.jsdelivr.com/package/npm/editorjs-youtube-tool):
 
-`https://cdn.jsdelivr.net/npm/editorjs-youtube`
+`https://cdn.jsdelivr.net/npm/editorjs-youtube-tool`
 
 Require this script on a page with Editor.js.
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/editorjs-youtube"></script>
+<script src="https://cdn.jsdelivr.net/npm/editorjs-youtube-tool"></script>
 ```
 
 ## Usage

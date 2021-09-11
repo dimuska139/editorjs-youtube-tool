@@ -1,6 +1,5 @@
 {
-  "name": "editorjs-youtube",
-  "version": "1.0.0",
+  "name": "editorjs-youtube-tool",
   "description": "Youtube block for Editor.js",
   "keywords": [
     "codex editor",
