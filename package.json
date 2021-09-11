@@ -1,5 +1,6 @@
 {
   "name": "editorjs-youtube-tool",
+  "version": "0.0.5",
   "description": "Youtube block for Editor.js",
   "keywords": [
     "codex editor",
@@ -10,7 +11,7 @@
     "tool"
   ],
   "scripts": {
-    "build": "webpack --progress",
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

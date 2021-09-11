@@ -1,6 +1,7 @@
 # YouTube tool
 
 Provides Block Tool for embed YouTube videos for the [Editor.js](https://editorjs.io/).
+This is just an example! Please use official [Embed Tool](https://github.com/editor-js/embed) instead.
 
 ## Installation
 
