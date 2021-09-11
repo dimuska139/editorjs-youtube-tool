@@ -1,0 +1,24 @@
+.youtube-tool {}
+
+.youtube-tool .youtube-video-wrapper {
+    position: relative;
+    height: 0;
+    margin-bottom: 10px;
+    padding-bottom: 56.25%;
+}
+
+.youtube-tool .youtube-video-wrapper iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    border: 0;
+}
+
+.youtube-tool input.invalid {
+    background-color: #fff3f6;
+    border-color: #f3e0e0;
+    color: #a95a5a;
+    box-shadow: inset 0 1px 3px 0 rgba(146, 62, 62, .05);
+}
